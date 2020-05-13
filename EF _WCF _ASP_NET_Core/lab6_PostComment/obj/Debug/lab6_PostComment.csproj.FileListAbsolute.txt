@@ -1,0 +1,11 @@
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\bin\Debug\lab6_PostComment.dll.config
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\bin\Debug\lab6_PostComment.dll
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\bin\Debug\lab6_PostComment.pdb
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\bin\Debug\EntityFramework.dll
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\bin\Debug\EntityFramework.xml
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\obj\Debug\lab6_PostComment.csprojAssemblyReference.cache
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\obj\Debug\lab6_PostComment.csproj.CopyComplete
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\obj\Debug\lab6_PostComment.dll
+C:\Users\WindowsSucks_ExtHDD\source\repos\TSP_dot_net\lab6_PostComment\obj\Debug\lab6_PostComment.pdb
